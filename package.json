@@ -44,6 +44,6 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
     "merge-stream": "^1.0.1",
-    "sass": "^1.49.0"
+    "sass": "1.77.6"
   }
 }
